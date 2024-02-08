@@ -36,7 +36,7 @@ footer a {
     border-radius: 5px;
     color: black;
     padding: 10px;
-    background: rgb(255, 255, 255);
+    background: #EAE1D2;
 }
 
 .about a:hover,
@@ -49,12 +49,12 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 30px;
-    padding: 40px;
+    gap: 40px;
+    padding: 50px;
 }
 
 video {
-    margin-top: 20px;
+    margin-top: 40px;
     border: 1px black solid;
     width: 100%;
 }
