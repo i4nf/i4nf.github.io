@@ -7,8 +7,8 @@
 
 
 body {
-    background-color: #6B4E45;
-    color: white;
+    background-color: #886256;
+    color: rgb(58, 42, 37);
 }
 
 .header {
@@ -36,7 +36,7 @@ footer a {
     border-radius: 5px;
     color: black;
     padding: 10px;
-    background: white;
+    background: rgb(255, 255, 255);
 }
 
 .about a:hover,
