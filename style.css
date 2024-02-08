@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #6B4E45;
+    color: white;
+}
+
+.header {
+    padding: 2%;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 36pt;
+    padding-bottom: 2%;
+}
+
+.about {
+    text-align: center;
+}
+
+.about h1 {
+    font-size: 36pt;
+}
+
+.about a,
+footer a {
+    transition: 0.5s all;
+    text-decoration: none;
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+    background: white;
+}
+
+.about a:hover,
+footer a:hover {
+    font-size: 20pt;
+    color: black;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 40px;
+}
+
+video {
+    margin-top: 20px;
+    border: 1px black solid;
+    width: 100%;
+}
