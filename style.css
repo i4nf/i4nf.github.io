@@ -1,7 +1,12 @@
+@font-face {
+    font-family: harir;
+    src: url("https://arbfonts.com//wp-content/fonts/naskh-arabic-fonts//harir.otf");
+}
+
 * {
     margin: 0;
     padding: 0;
-    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    font-family: harir, sans-serif;
     box-sizing: border-box;
 }
 
